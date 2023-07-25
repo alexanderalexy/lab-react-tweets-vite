@@ -7,6 +7,6 @@ function User({name, handle}) {
 </span>
       </div>
     );
-  }
+  };
   
   export default User;
